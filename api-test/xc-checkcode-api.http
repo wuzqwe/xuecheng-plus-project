@@ -1,0 +1,5 @@
+### 申请验证码
+POST {{checkcode_host}}/checkcode/pic
+
+###
+POST {{checkcode_host}}/checkcode/verify?key=checkcode:7e01605a56f04c839466684370cfd4b4=70dl
